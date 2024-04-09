@@ -20,25 +20,21 @@
 
 ### Basic Usage
 
-A page showcasing a multi-image slider gallery structured as follows:
-
-- Radio buttons ```html <input type="radio"> ``` are used for switching between images, with each button representing a different image.
-- Images are contained within divs with the class slide_img, each of which includes a pair of images along with previous and next buttons.
-- Navigation is located within the div with the id nav_slide, which includes dots corresponding to each image ```css <label for="i1" class="dots"> ```.
-- Both radio buttons and dots can be used to select the currently displayed image.
-
-This layout enables easy navigation and simple switching between images. Additionally, the SCSS file is downloadable
+The inspiration for the site comes from the Kalla Guesthouse.
+Kálmán Kalla, a master chef, went to Jena in the fall of 1966 to work as an intern in a hotel restaurant. Upon returning, he worked in the restaurant of the Royal Hotel and in restaurants around Lake Balaton. In 1968, he became the deputy head chef at the Margitszigeti Grand Hotel. In 1969, he worked at the Hotel Intercontinental, first as the deputy head chef at the Rendezvous restaurant, then as the manager of the Csárda restaurant, and finally as the head chef of the Bellevue restaurant. In 1973-74, he was the head chef at the Paprika Inn in Roppongi, Tokyo. From 1980, he worked at the Forum Hotel, and from 1990, he was the head chef at the Hungarian Embassy in Washington. From 1992, he was the kitchen director at Gundel Restaurant. He retired in 2006, and since then, in Sümegprága, he has been indulging in his lifelong passion for cooking at the Kalla Guesthouse.
 
 ### Variables
 ```css
-$big_width: 70%; //Slider width - large display
-$big_height: 40%; //Slider height - large display
-$big_nav_width: 12%; // Previous and Next width - large display
-$big_top: 40px;
-
-$small_width: 100%; //Slider width - small display
-$small_height: 55%; //Slider height - small display
-$small_nav_width: 15%; // Previous and Next width - small display
+	--primary-color: #c6a87d;
+	--secondary-color: #101418;
+	--dark-color: #080b0e;
+	--grey-color: #777777;
+	--white-color: #ffffff;
+	--text-color: #ffffffcc;
+	--custom-bg-color: #13181c;
+	--body-fonts: 'Josefin Sans', sans-serif;
+	--title-fonts: 'Josefin Sans', sans-serif;
+	--sub-title-fonts: 'Miniver', cursive;
 ```
 
 ## Copyright and License
