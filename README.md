@@ -14,7 +14,7 @@
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Kalla/master/LICENSE).
+[![GitHub license](https://img.shields.io/badge/licence-extended_CC_BY_NC-green%3F%26style%3Dplastic?style=plastic)](https://raw.githubusercontent.com/LeBryere/Kalla/master/LICENCE)
 
 ## Usage
 
@@ -40,4 +40,4 @@ From 1980, he worked at the Forum Hotel, and from 1990, he was the head chef at 
 
 ## Copyright and License
 
-Copyright 2024 Lebryere. Code released under the [![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://raw.githubusercontent.com/LeBryere/Kalla/master/LICENSE).
+Copyright 2024 Lebryere. Code released under the [![GitHub license](https://img.shields.io/badge/licence-extended_CC_BY_NC-green%3F%26style%3Dplastic?style=plastic)](https://raw.githubusercontent.com/LeBryere/Kalla/master/LICENCE)
